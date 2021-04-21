@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+- 👋 Hi, I’m @sanketsohaliya
+- 👀 I’m interested in ... crypto, web, movies, music and magic
+- 🌱 I’m currently learning ... blockchain development
+- 💞️ I’m looking to collaborate on ... any crypto project
+- 📫 How to reach me ... sanketsohaliya@gmail.com
